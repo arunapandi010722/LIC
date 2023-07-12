@@ -1,3 +1,12 @@
-this is my new code. this is my first coding.
 
-i learnt git commants
+<html>
+<head>
+<body>
+<p>
+<h1> you are best developer
+</h1>
+</p>
+</body>
+</head>
+</html>
+
